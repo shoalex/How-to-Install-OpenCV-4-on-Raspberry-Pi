@@ -209,9 +209,17 @@ run the command
 python
 import cv2
 cv2.__version__
-'''
+```
 
 Check the answer you get
-'''
-4.1.1
-'''
+```
+'4.1.1'
+```
+
+# Author
+
+Alex Shoyhit
+
+Contact Information:
+
+Linkedin:<a href="https://www.linkedin.com/in/alexshoyhit/"> Alex Shoyhit</a>
