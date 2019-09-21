@@ -202,25 +202,16 @@ sudo mv cv2.cpython-37m-arm-linux-gnueabihf.so cv2.so
 cd ~/.virtualenvs/cv/lib/python3.7/site-packages/
 ln -s /usr/local/lib/python3.7/site-packages/cv2/python-3.7/cv2.so cv2.so
 ```
+
 # 8.Testing
 run the command
 ```
 python
->>> import cv2
->>> cv2.__version__
+import cv2
+cv2.__version__
 '''
 
 Check the answer you get
 '''
-'4.1.1'
+4.1.1
 '''
-
-
-# Author
-
-Alex Shoyhit
-
-Contact Information:
-
-Linkedin:<a href="https://www.linkedin.com/in/alexshoyhit/"> Alex Shoyhit</a>
-
