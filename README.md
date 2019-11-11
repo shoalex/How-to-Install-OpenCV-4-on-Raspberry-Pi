@@ -217,7 +217,7 @@ Check the answer you get
 '4.1.1'
 ```
 
-# 9.Oprional
+# 9.Optional
 defult open to virtual machine
 ```
 deactivate
