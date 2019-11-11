@@ -108,6 +108,7 @@ mkvirtualenv cv -p python3
 If you have a Raspberry Pi Camera Module attached to your RPi, you should install
 ```
 pip install "picamera[array]"
+pip install matplotlib
 ```
 
 # 7.Compile OpenCV
@@ -215,6 +216,22 @@ Check the answer you get
 ```
 '4.1.1'
 ```
+
+# 9.Oprional
+defult open to virtual machine
+```
+deactivate
+sudo nano ~/.bashrc
+```
+
+add to the end of the file
+```
+workon cv
+```
+to save and exit press
+cntrl+x
+y
+enter
 
 # Author
 
