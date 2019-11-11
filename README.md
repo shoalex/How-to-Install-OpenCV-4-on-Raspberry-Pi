@@ -109,6 +109,7 @@ If you have a Raspberry Pi Camera Module attached to your RPi, you should instal
 ```
 pip install "picamera[array]"
 pip install matplotlib
+pip install scikit-image
 ```
 
 # 7.Compile OpenCV
