@@ -111,6 +111,7 @@ pip install "picamera[array]"
 pip install matplotlib
 pip install scikit-image
 pip install scipy
+pip install RPi.GPIO
 ```
 
 # 7.Compile OpenCV
