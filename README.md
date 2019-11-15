@@ -114,6 +114,7 @@ pip install matplotlib
 pip install scikit-image
 pip install imutils
 pip install scipy
+pip install Pillow==4.3.0
 pip install RPi.GPIO
 ```
 
