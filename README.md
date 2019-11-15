@@ -45,6 +45,7 @@ Make sure you dont have any errors on the way
 Run the commands
 ```
 sudo apt-get update && sudo apt-get upgrade -y
+sudo reboot
 sudo apt-get install build-essential cmake pkg-config -y
 sudo apt-get install libjpeg-dev libtiff5-dev libjasper-dev libpng-dev -y
 sudo apt-get install libavcodec-dev libavformat-dev libswscale-dev libv4l-dev -y
