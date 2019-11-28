@@ -145,7 +145,6 @@ sudo /etc/init.d/dphys-swapfile start
 ## 7.1.Install NumPy
 Run the command
 ```
-pip install numpy
 cd ~/opencv
 mkdir build
 cd build
