@@ -70,7 +70,7 @@ wget https://bootstrap.pypa.io/get-pip.py
 sudo python get-pip.py
 sudo python3 get-pip.py
 sudo rm -rf ~/.cache/pip
-sudo pip install virtualenv virtualenvwrapper
+sudo pip3 install virtualenv virtualenvwrapper
 nano ~/.bashrc
 ```
 Add to he end of the file the next lines:
@@ -109,13 +109,13 @@ mkvirtualenv cv -p python3
 ```
 If you have a Raspberry Pi Camera Module attached to your RPi, you should install
 ```
-pip install "picamera[array]"
-pip install matplotlib
-pip install scikit-image
-pip install imutils
-pip install scipy
-pip install Pillow==6.2.1
-pip install RPi.GPIO
+pip3 install "picamera[array]"
+pip3 install matplotlib
+pip3 install scikit-image
+pip3 install imutils
+pip3 install scipy
+pip3 install Pillow
+pip3 install RPi.GPIO
 ```
 
 # 7.Compile OpenCV
